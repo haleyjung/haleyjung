@@ -58,10 +58,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
   <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
   </a>
   <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="60" height="40"/> 
   </a>
   <a href="https://webpack.js.org" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="webpack" width="40" height="40"/> 
@@ -77,6 +77,12 @@
   </a>
   <a href="https://jestjs.io/" target="_blank"> 
     <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="jest" width="40" height="40"/> 
+  </a>
+  <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"> 
+    <img src="https://testing-library.com/img/octopus-64x64.png" alt="react-testing-library" width="40" height="40"/> 
+  </a>
+  <a href="https://eslint.org/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="eslint" width="40" height="40"/> 
   </a>
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> 
