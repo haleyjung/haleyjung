@@ -29,20 +29,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 94 Contributions in the Year 2022
- > 
-> 📦 12.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -65,12 +51,9 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 
 ```
 
-
 📊 **Coding** 
 
 ```text
-⌚︎ Time Zone: America/New_York
-
 💬 Programming Languages: 
 JavaScript               32 hrs 54 mins      ██████████████████████░░░   89.55% 
 Markdown                 2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.74% 
@@ -91,21 +74,6 @@ Unknown Project          9 mins              ░░░░░░░░░░░�
 Mac                      36 hrs 45 mins      █████████████████████████   100.0%
 
 ```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     7 repos             █████████░░░░░░░░░░░░░░░░   36.84% 
-JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84% 
-CSS                      5 repos             ██████░░░░░░░░░░░░░░░░░░░   26.32%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/haleyjung/haleyjung/main/charts/bar_graph.png) 
-
 
  Last Updated on 18/04/2022 18:37:56 UTC
 <!--END_SECTION:waka-->
