@@ -22,8 +22,8 @@
 - ⛵ Fun fact: I've voyaged on a tall ship in the Indian Ocean for a week!
 
 📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Understanding Authentication Systems](https://haleyjung.github.io/posts/2022/03/understanding-authentication-systems/)
+- [Understanding Databases(1)](https://haleyjung.github.io/posts/2022/03/understanding-databases-1/)
 
 📊 &nbsp;**This week I spent my time on**
 <!--START_SECTION:waka-->
