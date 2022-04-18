@@ -39,7 +39,7 @@
 
 ```
 
-✨ **Coding** 
+**Coding ✨ ** 
 
 ```text
 💬 Programming Languages: 
