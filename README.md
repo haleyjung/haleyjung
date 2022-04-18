@@ -126,12 +126,15 @@
 
 ---
 
-<h3>📊 This Week I Spent My Time On</h3>
+<h3> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+  This Week I Spent My Time On
+</h3>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2049%20mins-blue)
 
-**I'm an Early 🐤** 
+**🐤 I'm an Early** 
 
 ```text
 🌞 Morning    21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
@@ -141,7 +144,7 @@
 
 ```
 
-**Coding ✨** 
+**📊 Coding** 
 
 ```text
 💬 Programming Languages: 
