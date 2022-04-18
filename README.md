@@ -25,7 +25,7 @@
 - [Understanding Authentication Systems](https://haleyjung.github.io/posts/2022/03/understanding-authentication-systems/)
 - [Understanding Databases(1)](https://haleyjung.github.io/posts/2022/03/understanding-databases-1/)
 
-📊 &nbsp;**This week I spent my time on**
+📊 &nbsp;**This Week I Spent My Time On**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2049%20mins-blue)
 
@@ -66,7 +66,7 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Coding** 
 
 ```text
 ⌚︎ Time Zone: America/New_York
