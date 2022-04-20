@@ -128,7 +128,7 @@
 
 <h3> 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
-  This Week I Spent My Time On
+  Latest Update
 </h3>
 
 <!--START_SECTION:waka-->
