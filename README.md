@@ -54,6 +54,9 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mssql" width="40" height="40"/> 
   </a> 
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
