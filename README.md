@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-    Hi, thanks for coming to see my GitHub
+    Hi, I'm Haley
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <h3>I'm a passionate fullstack software engineer who never stops learning!</h3>
