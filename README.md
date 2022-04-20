@@ -19,7 +19,7 @@
 ---
 
 - 🔭 I’m currently working on **System Design Project**
-- 🌱 I’m currently learning **React Native**, **Firebase** and **Go**
+- 🌱 I’m currently learning **PostgreSQL**, **Firebase** and **Go**
 - 👨‍💻  Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
 - 📫 How to reach me: haley.hy.jung@gmail.com
 - ⛵ Fun fact: I've voyaged on a tall ship in the Indian Ocean for a week!
