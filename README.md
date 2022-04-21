@@ -19,7 +19,7 @@
 ---
 
 - 🔭 I’m currently working on **System Design Project**
-- 🌱 I’m currently learning **PostgreSQL**, **Firebase** and **Go**
+- 🌱 I’m currently learning **PostgreSQL**, **Docker** and **Firebase**
 - 👨‍💻  Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
 - 📫 How to reach me: haley.hy.jung@gmail.com
 - ⛵ Fun fact: I've voyaged on a tall ship in the Indian Ocean for a week!
@@ -89,6 +89,9 @@
   </a>
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://docs.docker.com/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>     </a>  
