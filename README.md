@@ -18,7 +18,7 @@
 ---
 
 - 🔭 I’m currently working on **System Design Project**
-- 🌱 I’m currently learning **PostgreSQL**, **Docker** and **Firebase**
+- 🌱 I’m currently learning **Redis**, **New Relic** and **Firebase**
 - 👨‍💻  Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
 - 📫 How to reach me: haley.hy.jung@gmail.com
 - ⛵ Fun fact: I've voyaged on a tall ship in the Indian Ocean for a week!
