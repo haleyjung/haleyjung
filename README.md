@@ -17,8 +17,8 @@
 
 ---
 
-- 🔭 I’m currently working on **System Design Project**
-- 🌱 I’m currently learning **Redis**, **New Relic** and **Firebase**
+- 🔭 I’m currently working on **Library Database Site**
+- 🌱 I’m currently learning **Firebase**
 - 👨‍💻  Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
 - 📫 How to reach me: haley.hy.jung@gmail.com
 - ⛵ Fun fact: I've voyaged on a tall ship in the Indian Ocean for a week!
@@ -32,7 +32,10 @@
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>       </a>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>     </a>
+  <a href="https://reactnative.dev/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" width="40" height="40"/>     
+  </a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a>   
   <a href="https://getbootstrap.com" target="_blank"> 
@@ -88,6 +91,9 @@
   </a>
   <a href="https://aws.amazon.com/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" height="40"/> 
   </a> 
   <a href="https://docs.docker.com/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/> 
