@@ -143,16 +143,17 @@
 </h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-🌆 Daytime    143 commits    ███████████░░░░░░░░░░░░░░   44.69% 
-🌃 Evening    73 commits     █████░░░░░░░░░░░░░░░░░░░░   22.81% 
-🌙 Night      74 commits     █████░░░░░░░░░░░░░░░░░░░░   23.12%
+🌞 Morning    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.35% 
+🌆 Daytime    144 commits    ███████████░░░░░░░░░░░░░░   44.86% 
+🌃 Evening    73 commits     █████░░░░░░░░░░░░░░░░░░░░   22.74% 
+🌙 Night      74 commits     █████░░░░░░░░░░░░░░░░░░░░   23.05%
 
 ```
 
@@ -180,7 +181,7 @@ Mac                      31 hrs 9 mins       ███████████�
 ```
 
 
- Last Updated on 08/05/2022 UTC
+ Last Updated on 09/05/2022 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haleyjung&theme=vue)](https://git.io/streak-stats)
