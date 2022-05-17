@@ -23,7 +23,11 @@
 - 📫 How to reach me: haley.hy.jung@gmail.com
 - ⛵ Fun fact: I've voyaged on a tall ship in the Indian Ocean for a week!
 
-### 📌 Recent Projects
+<h3> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+  Recent Projects
+</h3>
+
 - [BookFace: a social cataloging site](https://github.com/haleyjung/BookFace)
 - [Caminito: an E-Commerce site](https://github.com/haleyjung/e-commerce-site) & [API](https://github.com/haleyjung/products-api)
 - [TagMe: an iOS app that generates hashtags from photos](https://github.com/haleyjung/TagMe)
@@ -62,13 +66,5 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFD700?logo=firebase&logoColor=white&style=for-the-badge)
-
-<h3> 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
-  Latest Update
-</h3>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haleyjung&theme=vue)](https://git.io/streak-stats)
