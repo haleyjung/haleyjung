@@ -17,125 +17,51 @@
 
 ---
 
-- 🔭 I’m currently working on **Personal Library Data Management Site**
+- 🔭 I just completed **a social cataloging site with personal library**
 - 🌱 I’m currently learning **Firebase**
-- 👨‍💻  Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
+- 👨‍💻 Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
 - 📫 How to reach me: haley.hy.jung@gmail.com
 - ⛵ Fun fact: I've voyaged on a tall ship in the Indian Ocean for a week!
 
-📕 &nbsp;**Latest Blog Posts**
-- [Understanding Authentication Systems](https://haleyjung.github.io/posts/2022/03/understanding-authentication-systems/)
-- [Understanding Databases(1)](https://haleyjung.github.io/posts/2022/03/understanding-databases-1/)
+### 📌 Recent Projects
+- [BookFace: a social cataloging site](https://github.com/haleyjung/BookFace)
+- [Caminito: an E-Commerce site](https://github.com/haleyjung/e-commerce-site) & [API](https://github.com/haleyjung/products-api)
+- [TagMe: an iOS app that generates hashtags from photos](https://github.com/haleyjung/TagMe)
 
----
+### 🛠️ Languages and Tools
 
-<h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>     </a>
-  <a href="https://reactnative.dev/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" width="40" height="40"/>     
-  </a>
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a>   
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>  
-  <a href="https://go.dev/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="go" width="40" height="40"/> 
-  </a>  
-  <a href="https://pugjs.org/api/getting-started.html" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> 
-  </a> 
-  <a href="https://gohugo.io/" target="_blank"> 
-    <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="60" height="40"/> 
-  </a>
-  <a href="https://webpack.js.org" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="webpack" width="40" height="40"/> 
-  </a> 
-  <a href="https://babeljs.io/" target="_blank"> 
-    <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="babel" width="60" height="40"/> 
-  </a>
-  <a href="https://mochajs.org/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" alt="mocha" width="40" height="40"/> 
-  </a>
-  <a href="https://www.chaijs.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/chai.svg" alt="chai" width="40" height="40"/> 
-  </a>
-  <a href="https://jestjs.io/" target="_blank"> 
-    <img src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png" alt="jest" width="40" height="40"/> 
-  </a>
-  <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"> 
-    <img src="https://testing-library.com/img/octopus-64x64.png" alt="react-testing-library" width="40" height="40"/> 
-  </a>
-  <a href="https://eslint.org/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="eslint" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://docs.docker.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>     </a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://styled-components.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled-components" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sketch.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/sketch-2.svg" alt="sketch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.adobe.com/products/indesign.html" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-indesign-cc-icon.svg" alt="indesign" width="40" height="40"/> 
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sketchup.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/sketchup-logo-2020.svg" alt="sketchup" width="40" height="40"/> 
-  </a>
-</p>
-
----
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Zustand](https://img.shields.io/badge/-Zustand-FFb049?logo=zustand&logoColor=black&style=for-the-badge)
+![Pug](https://img.shields.io/badge/-Pug-A86454?logo=pug&logoColor=white&style=for-the-badge)
+![Hugo](https://img.shields.io/badge/-Hugo-FF4088?logo=hugo&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![D3](https://img.shields.io/badge/-D3-F9A03C?logo=d3&logoColor=white&style=for-the-badge)
+![Material-UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?logo=adobe-creative-cloud&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-B2E7E8?logo=figma&logoColor=black&style=for-the-badge)
+![Node](https://img.shields.io/badge/-Node-9ACD32?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-DCDCDC?logo=express&logoColor=black&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge)
+![Chai](https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-BA55D3?logo=vite&logoColor=white&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFD700?logo=firebase&logoColor=white&style=for-the-badge)
 
 <h3> 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
@@ -143,45 +69,6 @@
 </h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-185%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
-🌆 Daytime    151 commits    ███████████░░░░░░░░░░░░░░   43.77% 
-🌃 Evening    86 commits     ██████░░░░░░░░░░░░░░░░░░░   24.93% 
-🌙 Night      76 commits     █████░░░░░░░░░░░░░░░░░░░░   22.03%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               46 hrs 6 mins       ████████████████████░░░░░   81.64% 
-CSS                      7 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
-Markdown                 1 hr 40 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95% 
-JSON                     1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
-Bash                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
-
-🐱‍💻 Projects: 
-BookFace                 54 hrs 53 mins      ████████████████████████░   97.21% 
-rfe2202-toy-problems     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36% 
-FEC                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79% 
-TagMe                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34% 
-twilio-video-react-hooks 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
-
-💻 Operating System: 
-Mac                      56 hrs 28 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 16/05/2022 UTC
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haleyjung&theme=vue)](https://git.io/streak-stats)
