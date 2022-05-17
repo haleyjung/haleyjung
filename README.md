@@ -17,11 +17,11 @@
 
 ---
 
-- 🔭 I just completed **a social cataloging site with personal library**
-- 🌱 I’m currently learning **Firebase**
+- 🔭 I'm currently **climbing the LeetCode ladder**
+- 🌱 I’m currently focusing on **data structures and algorithms**
 - 👨‍💻 Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
 - 📫 How to reach me: haley.hy.jung@gmail.com
-- ⛵ Fun fact: I've voyaged on a tall ship in the Indian Ocean for a week!
+- ⛵ Fun fact: I curated a gallery exhibition which you can see [here](https://www.alminerech.com/exhibitions/7322-salon-de-peinture)!
 
 <h3> 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
