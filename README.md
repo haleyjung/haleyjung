@@ -21,7 +21,7 @@
 - 🌱 I’m currently focusing on **data structures and algorithms**
 - 👨‍💻 Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
 - 📫 How to reach me: haley.hy.jung@gmail.com
-- 🎨 Fun fact: I curated a gallery exhibition which you can see [here](https://www.alminerech.com/exhibitions/7322-salon-de-peinture)!
+- 🎨 Fun fact: I curated a gallery exhibition in NY which you can see [here](https://www.alminerech.com/exhibitions/7322-salon-de-peinture)!
 
 <h3> 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
