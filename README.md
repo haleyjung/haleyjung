@@ -29,7 +29,7 @@
 </h3>
 
 - [BookFace: a social cataloging site](https://github.com/MarianTLibrarian/BookFace)
-- [Caminito: an E-Commerce site](https://github.com/caminitodelrey/e-commerce-site) & [System Design](https://github.com/haleyjung/products-api)
+- [Caminito: E-Commerce site for latest fashion trends](https://github.com/caminitodelrey/e-commerce-site) & [System Design](https://github.com/haleyjung/products-api)
 - [TagMe: an iOS app that generates hashtags from photos](https://github.com/haleyjung/TagMe)
 
 ### 🛠️ Languages and Tools
