@@ -17,8 +17,8 @@
 
 ---
 
-- 🔭 I'm currently **climbing the LeetCode ladder**
-- 🌱 I’m currently focusing on **data structures and algorithms**
+- 🔭 I'm currently **climbing the LeetCode ladder** and learning **TypeScript**
+- 🌱 I’m creating a simple **blockchain using TypeScript**
 - 👨‍💻 Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
 - 📫 How to reach me: haley.hy.jung@gmail.com
 - 🎨 Fun fact: I curated a gallery exhibition in NY which you can see [here](https://www.alminerech.com/exhibitions/7322-salon-de-peinture)!
