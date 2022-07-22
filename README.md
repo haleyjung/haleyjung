@@ -17,7 +17,7 @@
 
 ---
 
-- 🔭 I'm currently **climbing the LeetCode ladder** and learning **TypeScript**
+- 🔭 I'm currently learning **C#** and **TypeScript**
 - 🌱 I’m creating a simple **blockchain using TypeScript**
 - 👨‍💻 Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
 - 📫 How to reach me: haley.hy.jung@gmail.com
