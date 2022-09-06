@@ -20,7 +20,6 @@
 - 🔭 I'm currently learning **C#** and **TypeScript**
 - 🌱 I’m creating a simple **blockchain using TypeScript**
 - 👨‍💻 Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
-- 🎨 Fun fact: I curated a gallery exhibition in NY which you can see [here](https://www.alminerech.com/exhibitions/7322-salon-de-peinture)!
 
 <h3> 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="43px" height="30px">
