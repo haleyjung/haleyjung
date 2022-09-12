@@ -18,7 +18,7 @@
 ---
 
 - 🔭 I'm currently learning **C#**, **Java**, and **Selenium**
-- 🌱 I’m creating a simple **blockchain using TypeScript**
+- 🌱 I’m creating an automation tool
 - 👨‍💻 Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
 
 <h3> 
