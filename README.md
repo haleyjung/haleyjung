@@ -17,10 +17,6 @@
 
 ---
 
-- 🔭 I'm currently learning **C#**, **Java**, and **Selenium**
-- 🌱 I’m creating an automation tool
-- 👨‍💻 Read more about what I learnt at [Today I Learned](https://haleyjung.github.io/)
-
 <h3> 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="43px" height="30px">
   Recent Projects
