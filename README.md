@@ -22,7 +22,7 @@
 
 - 🌐 The beginning of my fascination with coding goes back to 2006, when I used Dreamweaver to create a database of sharks
 - 🎨 While at an art university in Chicago, I contributed to the development of a library website housing over 10k collections
-- 🎥 As a curator for an exhibition in New York, I developed a website with Twitch API to livestream the opening night
+- 🎥 When curating an exhibition in New York, I also developed a website with Twitch API to livestream the opening night
 
 <h3> 	
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="43px" height="30px">	
