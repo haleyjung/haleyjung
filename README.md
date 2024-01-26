@@ -15,7 +15,14 @@
   <img src="https://komarev.com/ghpvc/?username=haleyjung&style=flat-square&color=blue" alt=""/>
 </div>
 
----	
+<h3> 	
+  <img src="https://i.giphy.com/MxYQrB9jeGzza.webp" width="43px" height="40px">
+  Fun Facts
+</h3>	
+
+- 🌐 The beginning of my fascination with coding goes back to 2006, when I used Dreamweaver to create a database of sharks
+- 🎨 While attending an art university in Chicago, I contributed to the development of a library website housing over 10k collections
+- 🎥 As a curator for an exhibition in New York, I developed a website with Twitch API to livestream the opening night
 
 <h3> 	
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="43px" height="30px">	
