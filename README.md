@@ -20,7 +20,7 @@
   Fun Facts
 </h3>	
 
-- 🌐 The beginning of my fascination with coding goes back to 2006, when I used Dreamweaver to create a database of sharks
+- 🌐 My fascination with coding goes back to 2006, when I used Dreamweaver to create an encyclopedia of sharks
 - 🎨 While at an art university in Chicago, I contributed to the development of a library website housing over 10k collections
 - 🎥 When curating an exhibition in New York, I also developed a website with Twitch API to livestream the opening night
 
