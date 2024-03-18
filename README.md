@@ -16,15 +16,6 @@
 </div>
 
 <h3> 	
-  <img src="https://i.giphy.com/MxYQrB9jeGzza.webp" width="43px" height="40px">
-  Fun Facts
-</h3>	
-
-- 🌐 My fascination with coding goes back to 2006, when I used Dreamweaver to create an encyclopedia of sharks
-- 🎨 While at an art university in Chicago, I contributed to the development of a library website housing over 10k collections
-- 🎥 When curating an exhibition in New York, I developed a website with Twitch API to livestream the opening night
-
-<h3> 	
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="43px" height="30px">	
   Recent Projects	
 </h3>	
