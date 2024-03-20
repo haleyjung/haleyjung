@@ -22,7 +22,6 @@
 
 - [BookFace: a social cataloging site](https://github.com/MarianTLibrarian/BookFace)
 - [TagMe: an iOS app that generates hashtags from photos](https://github.com/haleyjung/TagMe)
-- [Caminito: e-commerce web app and products API](https://github.com/haleyjung/e-commerce-site)
 
 ### 🛠️ Languages and Tools	
 
