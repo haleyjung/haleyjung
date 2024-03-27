@@ -9,7 +9,7 @@
 <div align="center">
   <h3>
     ✨ Check out my new Next.js portfolio site
-    <a href="https://haleyjung.vercel.app">
+    <a href="https://haleyjung.xyz">
       <em>here</em>
     <a/> ✨
   </h3>
