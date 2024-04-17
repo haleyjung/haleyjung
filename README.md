@@ -5,16 +5,6 @@
   </h1>
   <img src="https://user-images.githubusercontent.com/73789849/163858022-12833d90-2177-47b8-9949-9997b4f453ca.PNG" width="300" height="300" />
 </div>
-
-<div align="center">
-  <h3>
-    ✨ Check out my new Next.js portfolio site
-    <a href="https://haleyjung.xyz">
-      <em>here</em>
-    <a/> ✨
-  </h3>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/junghaley/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
