@@ -41,3 +41,5 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)	
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)	
 ![Firebase](https://img.shields.io/badge/-Firebase-FFD700?logo=firebase&logoColor=white&style=for-the-badge)	
+
+![](https://raw.githubusercontent.com/haleyjung/haleyjung/output/github-contribution-grid-snake.svg)
